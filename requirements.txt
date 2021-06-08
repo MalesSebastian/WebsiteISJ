@@ -8,7 +8,7 @@ python-magic==0.4.12
 django-tinymce==2.6.0
 django-extensions==1.8.1
 django-google-maps==0.7.0
-Pillow==4.2.1
+Pillow==8.2.0
 psycopg2==2.7.1
 bokeh==0.12.6
 django-jenkins==0.110.0
